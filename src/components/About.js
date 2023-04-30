@@ -1,3 +1,5 @@
+import ScrollAnimation from 'react-animate-on-scroll'
+
 export default function About(){
     return (
     <section id="about">
@@ -36,13 +38,23 @@ export default function About(){
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <ScrollAnimation duration={100} animateIn="BounceInRight">
+          <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center rounded-full"
             alt="hero"
             src="./linkedinPic2.jpeg"
           />
         </div>
+        </ScrollAnimation>
+        {/* <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <img
+            className="object-cover opacity-0  transition-opacity duration-1000 hover:opacity-100 object-center rounded-full"
+            alt="hero"
+            src="./linkedinPic2.jpeg"
+          />
+        </div> */}
+       
       </div>
     </section>
   );
