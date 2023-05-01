@@ -11,25 +11,25 @@ export const projects = [
     title: "React Tracks",
     subtitle: "React and Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An application built to track items on routes to be delivered to various customers ",
     image: "./project-image.png",
-    link: "https://reedbarger.com",
+    link: "#",
   },
   {
     title: "DevChat",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A chat simulation application built to which was built with React and Firebase",
     image: "./project-image1.jpg",
-    link: "https://jsbootcamp.com",
+    link: "#",
   },
   {
     title: "Epic Todo App",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple Todo App built to demonstrates React Hooks",
     image: "./project-image3.jpeg",
-    link: "https://pythonbootcamp.com",
+    link: "#",
   },
 ];
 
