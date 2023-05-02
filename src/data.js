@@ -37,7 +37,7 @@ export const skills =[
     "PHP",
     "Golang",
     "Javascript",
-    "Laravel",
+    "Python",
     "ReactJs",
     "AWS",
 ];
