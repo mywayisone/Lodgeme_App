@@ -23,7 +23,7 @@ export default function About(){
             Apart from my technical skills, I am also a team player, a good communicator, and a problem solver. I enjoy collaborating with other developers, designers, and stakeholders to create innovative and efficient solutions that meet business objectives. I believe in continuous learning and improvement and stay updated with the latest trends and technologies in web development.
           </p>
           <p className="mb-8 leading-relaxed">
-            In conclusion, I am a full-stack developer with over 6 years of experience in PHP, Golang, ReactJS, Laravel, and AWS. I am passionate about creating scalable and efficient web applications and have a track record of delivering high-quality solutions. If you have a project that requires my expertise, feel free to get in touch. Thank you for reading!
+            In conclusion, as a full-stack developer, I am passionate about creating scalable and efficient web applications and have a track record of delivering high-quality solutions. If you have a project that requires my expertise, feel free to get in touch. Thank you for reading!
           </p>
           <div className="flex justify-center">
             <a

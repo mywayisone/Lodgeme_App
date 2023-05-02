@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A software designed to recover lost or deleted data from various devices such as hard drives, USB drives, memory cards, and more.",
     image: "./project-image2.webp",
-    link: "https://reactbootcamp.com",
+    link: "#",
   },
   {
     title: "React Tracks",
